@@ -1,12 +1,19 @@
-## Hi there 👋
+# IFMA-MDS Organization
 
-<!--
+## Sobre a Organização
 
-**Here are some ideas to get you started:**
+A IFMA-MDS (Instituto Federal de Minas Gerais - Ministério do Desenvolvimento Social) é uma organização dedicada ao desenvolvimento de soluções tecnológicas inovadoras para o setor público. Nosso foco principal é criar aplicações que auxiliem o Ministério do Desenvolvimento Social na gestão e distribuição de benefícios sociais, garantindo eficiência, transparência e acessibilidade.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Nossos Projetos
+
+Nossos projetos são desenvolvidos com o objetivo de atender às necessidades específicas do Ministério do Desenvolvimento Social. Utilizamos tecnologias modernas e práticas de desenvolvimento ágil para garantir soluções de alta qualidade e adaptáveis às mudanças de requisitos.
+
+### Principais Tecnologias
+
+- Electron & React: Para o desenvolvimento de aplicações desktop.
+- SQL Server: Como nosso principal sistema de gerenciamento de banco de dados.
+- Outras tecnologias modernas de desenvolvimento web e mobile.
+
+## Colaboração
+
+Encorajamos a colaboração e contribuições da comunidade. Se você tem interesse em contribuir para nossos projetos, por favor, leia nosso guia de contribuição e código de conduta.
